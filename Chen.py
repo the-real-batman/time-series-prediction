@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 21 10:02:51 2018
 
-@author: amarnath
+@author: ritesh
 """
 import numpy as np
 '''for ploting the graphs'''
